@@ -10,5 +10,7 @@
   	<module>eye-gateway</module>
   	<module>eye-webservices</module>
   	<module>eye-zipkin</module>
+  	<module>eye-kafka</module>
+  	<module>eye-spark</module>
   </modules>
 </project>
