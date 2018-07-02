@@ -12,5 +12,6 @@
   	<module>eye-zipkin</module>
   	<module>eye-kafka</module>
   	<module>eye-spark</module>
+  	<module>eye-hystrix</module>
   </modules>
 </project>

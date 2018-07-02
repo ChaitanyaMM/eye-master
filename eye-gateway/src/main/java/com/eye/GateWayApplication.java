@@ -10,8 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @SpringBootApplication
-@EnableAutoConfiguration
-@ComponentScan(basePackages = "com")
 @EnableZuulProxy
 @EnableDiscoveryClient
 
